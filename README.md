@@ -1,7 +1,7 @@
 
 ### Heeeeeelloo 👋
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=velibor7)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=velibor7) <br>
 📫 How to reach me: <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Email](velibor.va@gmail.com)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [LinkedIn](https://www.linkedin.com/in/veliborvasiljevic)
