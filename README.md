@@ -1,7 +1,8 @@
 
-### Heeeeeelloo 👋
+## Heeeeeelloo! 👋
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=velibor7) <br>
+![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
 
 🔭 *Currently working on*: thenewboston project<br>
 
