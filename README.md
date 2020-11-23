@@ -1,5 +1,5 @@
 
-## Heeeeeelloo! 👋
+## Heeeeeelloo! 👋 <img src="./wave.gif" width="30px">
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=velibor7)
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
