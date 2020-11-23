@@ -3,6 +3,8 @@
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=velibor7) <br>
 
+🔭 *Currently working on*: thenewboston project<br>
+
 📫 How to reach me:
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Email](velibor.va@gmail.com)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [LinkedIn](https://www.linkedin.com/in/veliborvasiljevic)
