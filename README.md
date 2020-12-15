@@ -4,6 +4,9 @@
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=velibor7)
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
 
+I'm freelance python developer, lately mostly working with scrapy and data extraction in general
+
+
 <!---
 🔭 *Currently working on*: <br>
 <a href="https://github.com/thenewboston-developers/thenewboston-python-client">
@@ -12,6 +15,11 @@
 -->
 
 📫 Let's talk: [LinkedIn](https://www.linkedin.com/in/veliborvasiljevic) or velibor.va@gmail.com <br>
+
+### Languages and Tools
+Data Mining: Scrapy, BeautifulSoup
+Web Development: Django, Flask, node, React
+Databases: PostgreSQL, MongoDB, Firebase
 
 
 <a href="https://github.com/velibor7/velibor7">
