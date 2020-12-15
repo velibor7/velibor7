@@ -12,12 +12,12 @@ I'm freelance python developer, lately mostly working on data mining and data an
 [<img src="https://user-images.githubusercontent.com/43258788/102267262-f14cb300-3f19-11eb-8a1f-f4b9a98dd94e.png" width="30px">][linkedin]
 
 
-### Languages and Tools
+### :bulb: Languages and Tools
 Data Mining: **Scrapy, BeautifulSoup** <br>
 Web Development: **Django, Flask, node, React** <br>
 Databases: **PostgreSQL, MongoDB, Firebase** <br>
 
-
+### :chart_with_upwards_trend: Stats
 <a href="https://github.com/velibor7/velibor7">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=velibor7&hide=css,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
