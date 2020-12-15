@@ -7,19 +7,12 @@
 I'm freelance python developer, lately mostly working with scrapy and data extraction in general
 
 
-<!---
-🔭 *Currently working on*: <br>
-<a href="https://github.com/thenewboston-developers/thenewboston-python-client">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=thenewboston-developers&repo=thenewboston-python-client&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
--->
-
 📫 Let's talk: [LinkedIn](https://www.linkedin.com/in/veliborvasiljevic) or velibor.va@gmail.com <br>
 
 ### Languages and Tools
-Data Mining: Scrapy, BeautifulSoup
-Web Development: Django, Flask, node, React
-Databases: PostgreSQL, MongoDB, Firebase
+Data Mining: **Scrapy, BeautifulSoup** <br>
+Web Development: **Django, Flask, node, React** <br>
+Databases: **PostgreSQL, MongoDB, Firebase** <br>
 
 
 <a href="https://github.com/velibor7/velibor7">
