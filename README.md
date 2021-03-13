@@ -4,7 +4,7 @@
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=velibor7)
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
 
-I'm freelance python developer, lately mostly working on data mining and data analysis
+I'm freelance python developer, lately mostly working on web scraping and data analysis
 
 
 ### 📫 Useful links: <br>
@@ -13,7 +13,7 @@ I'm freelance python developer, lately mostly working on data mining and data an
 
 
 ### :bulb: Languages and Tools
-Data Mining: **Scrapy, BeautifulSoup** <br>
+Web Scraping: **Scrapy, BeautifulSoup** <br>
 Web Development: **Django, Flask, node, React** <br>
 Databases: **PostgreSQL, MongoDB, Firebase** <br>
 
