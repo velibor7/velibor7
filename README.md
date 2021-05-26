@@ -4,8 +4,8 @@
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=velibor7)
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
 
-I'm freelance python developer, lately mostly working on web scraping and data analysis
-
+I'm freelance python/javascript developer, proficient in web development and web scraping <br>
+Contributor to [thenewboston cryptocurrency](https://github.com/thenewboston-developers/thenewboston-python-client/graphs/contributors)
 
 ### 📫 Useful links: <br>
 [<img src="https://user-images.githubusercontent.com/43258788/102266220-6e772880-3f18-11eb-90e6-f1a8a34ec90d.png" width="30px">][kaggle]
